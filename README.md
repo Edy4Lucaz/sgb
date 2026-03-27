@@ -108,5 +108,6 @@ Para facilitar a avaliação, o sistema utiliza o driver de **Log**. Os e-mails 
 ## 👤 Desenvolvedor
 
 * **GRUPO Nº 3:**
-* **Status:** Em Desemvolvimento/Disponível para avaliação
+* **Status:** Finalizado
+* **Conclusão:** Depois da Avaliação do professor, o Sistema foi Aprovado com nota final de **90**
 
