@@ -1,6 +1,6 @@
 # 🚀 SGB ELITE - Sistema de Gestão
 
-O **SGB ELITE** é uma aplicação web desenvolvida com o framework **Laravel 11** e banco de dados **MySQL**, focada em eficiência e organização de dados.
+O **SGB ELITE** é uma aplicação web feita como trabalho final da disciplina de engenharia de Sotware, desenvolvida com o framework **Laravel 11** e banco de dados **MySQL**, focada em eficiência e organização de dados.
 
 ---
 
